@@ -11,5 +11,5 @@ A tool for generating minecraft maparts, uses dithering to improve quality when 
 A colorful implementation of [boids](https://en.wikipedia.org/wiki/Boids).
 Written in Javascript using the \<canvas\> API for rendering.
 
-## TODO: Add more
-There a few projects I will add here soon.
+# My system configurations
+I use [Nix](https://nixos.org/) for my system configurations, my config is available [here](https://github.com/RebelAndroid/nix-config).
