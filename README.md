@@ -1,4 +1,5 @@
 # My Projects
+Complete enough to be generally usable.
 
 ## [Phoible-Search](https://github.com/RebelAndroid/phoible-search)
 A tool for searching Phoible, an online repository of phonological inventories (the sounds a language uses and how they are organized).
