@@ -12,4 +12,4 @@ A colorful implementation of [boids](https://en.wikipedia.org/wiki/Boids).
 Written in Javascript using the \<canvas\> API for rendering.
 
 # My system configurations
-I use [Nix](https://nixos.org/) for my system configurations, my config is available [here](https://github.com/RebelAndroid/nix-config).
+I use [Nix](https://nixos.org/) for my system configurations; my config is available [here](https://github.com/RebelAndroid/nix-config).
