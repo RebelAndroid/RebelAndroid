@@ -15,8 +15,6 @@ These projects are complete enough to be generally usable. For projects in earli
 
 # Works in Progress
 Descriptions represent plans, for current states, see repository.
-## [Rex-Kernel](https://github.com/RebelAndroid/rex-kernel)
-Exokernel operating system.
 
 ## Wysp
 Simple, efficent programming language that compiles to WebAssembly.
